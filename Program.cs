@@ -8,6 +8,11 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             "saduiasudhasudh"
+                "asdugasddesa"
+                "asdasd" 
+                "asdasd"
+                "asdasd" +
+                ""
         }
     }
 }
